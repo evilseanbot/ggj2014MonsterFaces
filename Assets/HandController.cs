@@ -16,7 +16,7 @@ public class HandController : MonoBehaviour {
 
 		if (transform.position.z > -8.4f) {
 			GameObject.Find("SadMonster").GetComponent<MonsterControllerCS>().touch();
-		} else {
+		} else if (transform.position.z < -8.9f) {
 			GameObject.Find("SadMonster").GetComponent<MonsterControllerCS>().touchOff();
 		
 		}
