@@ -15,7 +15,8369 @@ Platform assembly: C:\Users\Seanna\Documents\Software Projects\ggj2014MonsterFac
 Loading C:\Users\Seanna\Documents\Software Projects\ggj2014MonsterFaces\BadTouch_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
 Platform assembly: C:\Users\Seanna\Documents\Software Projects\ggj2014MonsterFaces\BadTouch_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
 Loading C:\Users\Seanna\Documents\Software Projects\ggj2014MonsterFaces\BadTouch_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
-- Completed reload, in  0.458 seconds
+- Completed reload, in  0.379 seconds
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
+UnloadTime: 0.956305 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 188.
+Total: 3.022806 ms (FindLiveObjects: 0.131171 ms CreateObjectMapping: 0.027113 ms MarkObjects: 0.392048 ms  DeleteObjects: 0.018320 ms)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+UnloadTime: 1.422367 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 2.854261 ms (FindLiveObjects: 0.022716 ms CreateObjectMapping: 0.057891 ms MarkObjects: 0.342951 ms  DeleteObjects: 0.010992 ms)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+UnloadTime: 1.111659 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 2.892367 ms (FindLiveObjects: 0.033708 ms CreateObjectMapping: 0.025648 ms MarkObjects: 0.536410 ms  DeleteObjects: 0.012457 ms)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+UnloadTime: 1.118987 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 3.276355 ms (FindLiveObjects: 0.026380 ms CreateObjectMapping: 0.026380 ms MarkObjects: 0.507098 ms  DeleteObjects: 0.013190 ms)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+UnloadTime: 1.165154 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 126.
+Total: 4.531644 ms (FindLiveObjects: 0.021984 ms CreateObjectMapping: 0.025648 ms MarkObjects: 0.339287 ms  DeleteObjects: 0.197123 ms)
+

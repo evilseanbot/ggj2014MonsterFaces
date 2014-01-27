@@ -14,7 +14,7 @@ namespace Leap
 	//Leap coordinates are in cm, so the .02f scaling factor means 1cm of hand motion = .02m scene motion
 	public static class LeapExtensions
 	{
-		public static Vector3 InputScale = new Vector3(0.003f, 0.003f, 0.005f);
+		public static Vector3 InputScale = new Vector3(0.003f, 0.003f, 0.01f);
 		public static Vector3 InputOffset = new Vector3(0,-0.1f,-9f);
 		
 		//For Directions

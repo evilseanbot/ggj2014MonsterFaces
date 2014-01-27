@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class MonsterControllerCS : MonoBehaviour {
-
+	
 	public Texture2D controlTexture;
 	public Material happyFace;
 	float comfortLevel = 100f;
@@ -14,6 +14,11 @@ public class MonsterControllerCS : MonoBehaviour {
 	bool happy = false;
 	bool touched = false;
 
+	public AudioClip mattie1;
+	public AudioClip mattie2;
+	public AudioClip mattie3;
+
+
 	void Start () {
 		float rando = Random.value;
 		if (rando > 0.5f) {
@@ -23,7 +28,7 @@ public class MonsterControllerCS : MonoBehaviour {
 		}
 
 		// For debug purposes:
-		wantTouch = true;
+		//wantTouch = true;
 	}
 	
 	void FixedUpdate () {
@@ -39,6 +44,8 @@ public class MonsterControllerCS : MonoBehaviour {
 				happy = true;
 				GameObject.Find("MonsterFace").GetComponent<MeshRenderer>().sharedMaterial = happyFace;
 				GameObject.Find ("Directional light").GetComponent<Light>().intensity = 1.0f;
+
+				setRandomMattieClip();
 				GameObject.Find ("Main Camera").GetComponent<AudioSource>().Play ();
 			}
 		}
@@ -47,9 +54,19 @@ public class MonsterControllerCS : MonoBehaviour {
 			timeOutTimer += Time.deltaTime;
 		}
 
-		if (timeOutTimer > 3f) {
-			Debug.Log ("Part timed out!");
+		if (timeOutTimer > 1f) {
+			GameObject.Find ("fadeOut").GetComponent<fadeOutControllerCS>().startTimer();
 		}
+
+		if (timeOutTimer > 3f) {
+
+			if (GameObject.Find("Scene Counter").GetComponent<ClickThrough>().scenesPassed > 3) {
+				Application.LoadLevel ("end");		
+		}
+			 else {
+			GameObject.Find ("Scene Counter").GetComponent<ClickThrough>().scenesPassed++;
+			    Application.LoadLevel ("touchTime");		}
+	        }
 	}
 
 	public void touch() {
@@ -83,5 +100,18 @@ public class MonsterControllerCS : MonoBehaviour {
 
 		GUI.Box (new Rect (0,Screen.height - 50,100,50), "Comfort-Zone");
 		GUI.DrawTexture(new Rect(0,Screen.height - 100, width, height), controlTexture, ScaleMode.ScaleToFit, true, width/height);
+	}
+
+	void setRandomMattieClip() {
+		float rando = Random.value * 3f;
+		AudioClip clip = GameObject.Find ("Main Camera").GetComponent<AudioSource>().clip;
+
+		if (rando < 1) {
+			GameObject.Find ("Main Camera").GetComponent<AudioSource>().clip = mattie1;
+		} else if (rando < 2) {
+			GameObject.Find ("Main Camera").GetComponent<AudioSource>().clip = mattie2;
+		} else {
+			GameObject.Find ("Main Camera").GetComponent<AudioSource>().clip = mattie3;
+		}
 	}
 }

@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\PalmController.js" />
+     <Compile Include="Assets\fadeOutController.js" />
      <None Include="Assets\Leap_GGJ\readme.txt" />
  <Reference Include="LeapCSharp.NET3.5">
  <HintPath>Assets\Plugins\LeapCSharp.NET3.5.dll</HintPath>

@@ -13,6 +13,9 @@ public class HandController : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		gameObject.transform.position = myLeapManagerInstance.frontmostHand ().PalmPosition.ToUnityTranslated();
+		gameObject.transform.forward = myLeapManagerInstance.frontmostHand().Direction.ToUnity();
+		gameObject.transform.up = -1 * myLeapManagerInstance.frontmostHand().PalmNormal.ToUnity();
+
 
 		if (transform.position.z > -8.4f) {
 			GameObject.Find("SadMonster").GetComponent<MonsterControllerCS>().touch();
